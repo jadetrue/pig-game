@@ -1,4 +1,6 @@
 # ❓ Basic Guessing Game
+![image](https://user-images.githubusercontent.com/39219696/148749640-135dccf2-8285-48d1-a814-e367900ca292.png)
+
 
 ## 🧰 Built with
 
